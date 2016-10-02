@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6E7E9DB3-6BE0-91BB-9FFA-7BD3C7395BBC}") = "EscapeTheRoomVR", "Assembly-CSharp.csproj", "{84495A8E-F32C-2A14-8E72-FB7162BDF71A}"
+EndProject
+Project("{6E7E9DB3-6BE0-91BB-9FFA-7BD3C7395BBC}") = "EscapeTheRoomVR", "Assembly-CSharp-Editor.csproj", "{F14A7B5C-107A-0220-B5D2-5750A57121D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84495A8E-F32C-2A14-8E72-FB7162BDF71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84495A8E-F32C-2A14-8E72-FB7162BDF71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84495A8E-F32C-2A14-8E72-FB7162BDF71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84495A8E-F32C-2A14-8E72-FB7162BDF71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14A7B5C-107A-0220-B5D2-5750A57121D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14A7B5C-107A-0220-B5D2-5750A57121D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14A7B5C-107A-0220-B5D2-5750A57121D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14A7B5C-107A-0220-B5D2-5750A57121D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
